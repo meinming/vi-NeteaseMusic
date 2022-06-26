@@ -3,6 +3,6 @@
 
 ~~新建文件夹，具体实现以后再说~~ 
 
-##构思
+## 构思
 
-![大饼](imgs/vi-Netease Music (4).png "一张普通的大饼")
+![大饼](imgs//vi-Netease_Music.png "一张普通的大饼")
